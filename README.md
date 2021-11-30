@@ -22,5 +22,11 @@ on your terminal.
 
 ## Tests
 
-Tests can be run with the command:
-`bundle install && bundle exec rspec`
+To be implemented.
+
+<!---
+Old tests were only meant to work as gemfiles
+
+ Tests can be run with the command:
+#`bundle install && bundle exec rspec`
+--->
