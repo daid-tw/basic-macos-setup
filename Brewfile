@@ -4,9 +4,6 @@
 cask_args appdir: "/Applications"
 
 # install packages
-tap "homebrew/cask"
-tap "caskroom/homebrew-cask" || true
-tap "caskroom/versions" || true
 brew "git"
 brew "bash-completion"
 brew "tree"
