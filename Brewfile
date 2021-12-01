@@ -13,9 +13,9 @@ brew "nvm"
 
 # casks
 cask "visual-studio-code"
-cask "iterm2-nightly"
+cask "iterm2"
 cask "sublime-text"
-#cask "atom"
+cask "atom"
 cask "docker"
 cask "postman"
 
