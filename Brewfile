@@ -17,7 +17,7 @@ cask "iterm2-nightly"
 cask "sublime-text"
 #cask "atom"
 cask "docker"
-
+cask "postman"
 
 # pyenv
 brew "pyenv"
@@ -28,6 +28,9 @@ brew "jenv"
 # python
 brew "python"
 brew "python3"
+
+#Azure CLI --Depends Python3
+brew "azure-cli"
 
 # openjdk
 brew "openjdk@8"
