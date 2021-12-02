@@ -4,11 +4,15 @@ These jobs are using a *_Brewfile_* in order to install needed components to hav
 
 * Clone this repository to your laptop so you can build and run the _Brewfile_
 
+
 ## Pre-requisites
 
-There are two pre-requisites for this.
+There are three pre-requisites for this.
 
-* The first one is to have _Homebrew_ installed, which you can use the next command line on your terminal for it:
+* The first configure proxy to have access by VPN. You can follow a instruction https://github.com/krogertechnology/mac-setup-scripts/blob/master/proxy-setup.md
+  You can run [./install_proxy.sh] to configure your terminal automatically and avoid the part Set up Terminal for proxy access of guide.
+
+* The second one is to have _Homebrew_ installed, which you can use the next command line on your terminal for it:
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 * The second pre-requisite is installing _brew bundle_ command, which we will use to run our Brewfile:
@@ -17,7 +21,7 @@ There are two pre-requisites for this.
 ## Executing 
 
 In order to run your _Brewfile_ and have all needed components installed, you can simply start by running:
-`brew bundle`
+`sudo ./install_apps.sh`
 on your terminal.
 
 ## Tests
