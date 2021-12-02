@@ -1,6 +1,9 @@
 #Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+#Reinitialize terminal
+source ~/.zshrc
+
 #Install bundle
 brew tap Homebrew/bundle
 
