@@ -1,5 +1,9 @@
+#Install Homebrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 #Install bundle
 brew tap Homebrew/bundle
+
 #Install all apps in Brewfile
 brew bundle
 
