@@ -7,6 +7,9 @@ source ~/.zshrc
 #Install bundle
 brew tap Homebrew/bundle
 
+#Reinitialize terminal
+source ~/.zshrc
+
 #Install all apps in Brewfile
 brew bundle
 
