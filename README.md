@@ -7,7 +7,7 @@ These jobs are using a *_Brewfile_* in order to install needed components to hav
 
 ## Execution Steps
 
-There are three pre-requisites for this.
+The execution steps for getting your MacOS setup configured are:
 
 * 1. Configure your proxy to access web through a VPN.
   Follow VPN/Spike instructions at: https://github.com/krogertechnology/mac-setup-scripts/blob/master/proxy-setup.md
