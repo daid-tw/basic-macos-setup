@@ -18,6 +18,7 @@ cask "sublime-text"
 cask "atom"
 cask "docker"
 cask "postman"
+cask "zoom"
 
 # pyenv
 brew "pyenv"
