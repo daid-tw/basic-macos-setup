@@ -9,9 +9,4 @@ These jobs are using a *_Brewfile_* in order to install needed components to hav
 
 The execution steps for getting your MacOS setup configured are:
 
-* 1. Configure your proxy to access web through a VPN.
-  Follow VPN/Spike instructions at: https://github.com/krogertechnology/mac-setup-scripts/blob/master/proxy-setup.md
-  
-* 2. Run `$make proxy` to install proxy configurations on your machine.
-
-* 3. Run `$make install` to install needed apps for your programming environment and also for productivity.
+* Run `$make install` to install needed apps for your programming environment and also for productivity1
