@@ -9,4 +9,4 @@ These jobs use a *_Brewfile_* in order to install needed components to have your
 
 The execution steps for getting your MacOS setup configured are:
 
-* Run `$make install` to install needed apps for your programming environment and also for productivity1
+* Run `$make install` to install needed apps for your programming environment and also for productivity.
