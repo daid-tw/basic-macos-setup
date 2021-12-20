@@ -1,6 +1,6 @@
 # Basic MacOS Setup using Brewfile
 This is a collection of *_Homebrew_* casks or jobs that are supposed to setup your MacOS environment.
-These jobs are using a *_Brewfile_* in order to install needed components to have your laptop ready for programming (via `brew` commands).
+These jobs use a *_Brewfile_* in order to install needed components to have your laptop ready for programming (via `brew` commands).
 
 * Clone this repository to your laptop so you can build and run the _Brewfile_
 
