@@ -5,11 +5,11 @@ cask_args appdir: "/Applications"
 
 # install packages
 brew "git"
+brew "gh"
 brew "bash-completion"
 brew "tree"
 brew "node"
 brew "nvm"
-
 
 # casks
 cask "visual-studio-code"
@@ -20,15 +20,15 @@ cask "docker"
 cask "postman"
 cask "zoom"
 
+# python
+brew "python"
+brew "python3"
+
 # pyenv
 brew "pyenv"
 
 # jenv
 brew "jenv"
-
-# python
-brew "python"
-brew "python3"
 
 #Azure CLI --Depends Python3
 brew "azure-cli"
