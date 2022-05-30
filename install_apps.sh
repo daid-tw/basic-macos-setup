@@ -1,5 +1,4 @@
 #!/bin/bash
-
 replace=""
 file="install_apps.sh"
 cd ${0/$file/$replace}
